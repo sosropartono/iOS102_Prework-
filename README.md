@@ -8,3 +8,5 @@ Pre work for Code Path's iOS 102
 
 
 Implemented data peresistence for textbox values
+
+![ezgif-4-027f6df1aa](https://github.com/sosropartono/iOS102_Prework-/assets/66928465/231631d6-3c6e-4b3e-9fb3-eeba0a8c2891)
