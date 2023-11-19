@@ -1,7 +1,7 @@
-## Introduce Yourself!
+## Introduce Student!
 
 ### App Description
-App that allows you to create a alert by filling in information about yourself!
+App that allows you to create a alert by filling in information about yourself! Application takes information on your name, hobby and number of pets!
 
 ### App Walk-though
 
