@@ -1,10 +1,15 @@
 # iOS102_Prework-
 Pre work for Code Path's iOS 102
+### Required:
 - [x] User can input name, last name, school name into textfield
 - [x] Screen shows picture of school logo/name
 - [x] User can select the academic year from segmented control
 - [x] Increase the number of pets label using stepper
 - [x] App presents an alert when the "Introduce Self" button is tapped
+
+### Optional:
+- [x] Research persistence to learn how to store the information so when app reboots the information remains
+- [x] Add more fields to crease a more thorough introduction
 
 
 Implemented data peresistence for textbox values
