@@ -1,12 +1,11 @@
 ## Introduce Yourself!
 
-`TODO://` An app to help you describe yourself as a student :)
+### App Description
+App that allows you to create a alert by filling in information about yourself!
 
 ### App Walk-though
 
 ![ezgif-3-ad6c161373](https://github.com/sosropartono/iOS102_Prework-/assets/66928465/58fbbee2-38c4-4939-98b6-009ecc42309d)
-
-`TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 
 ### Required Features
