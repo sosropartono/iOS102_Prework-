@@ -8,8 +8,8 @@ Pre work for Code Path's iOS 102
 - [x] App presents an alert when the "Introduce Self" button is tapped
 
 ### Optional:
-- [x] Research persistence to learn how to store the information so when app reboots the information remains
-- [x] Add more fields to crease a more thorough introduction
+- [x] Implemented Persistence for the Text Fields
+- [x] Added hobby as a text field
 
 
 Implemented data peresistence for textbox values
